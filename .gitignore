@@ -1,7 +1,5 @@
 # Ignore Experiment Files
-results/out
-evolution/noveltysearch/out
-
+out/**
 
 
 git.sh
